@@ -91,17 +91,6 @@
   </tr>
 </table>
 
-## LeetCode Track
-
-<p align="center">
-  <a href="https://leetcode.com/u/SanSan-/"><img width="43%" src="https://leetcard.jacoblin.cool/SanSan-?theme=dark&ext=contest" alt="LeetCode contest stats" /></a>
-  <a href="https://leetcode.com/u/SanSan-/"><img width="54%" src="https://leetcard.jacoblin.cool/SanSan-?theme=dark&ext=heatmap" alt="LeetCode heatmap" /></a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/SanSan-/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=SanSan-&theme=github-dark&animated=true&limit=12" alt="LeetCode badges" /></a>
-</p>
-
 ## Stats
 
 <p align="center">
